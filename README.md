@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Im Arnav, a Computer Science student at [The University of Birmingham](https://www.birmingham.ac.uk/index.aspx) with a passion for Software Engineering.
+If you come across this, check out some of my projects!
+
+
 <!--
 **ArnyBarnyBears/ArnyBarnyBears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
